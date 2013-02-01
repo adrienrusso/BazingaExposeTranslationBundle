@@ -1,5 +1,5 @@
 {
-  "name": "willdurand/expose-translation-bundle",
+  "name": "adrienrusso/expose-translation-bundle",
   "description": "A pretty nice way to expose your translation messages to your JavaScript.",
   "keywords": ["translation", "javascript"],
   "type": "symfony-bundle",
